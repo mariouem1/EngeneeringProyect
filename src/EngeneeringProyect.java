@@ -6,6 +6,8 @@ public class EngeneeringProyect {
 
 		System.out.println("This is an example");
 		System.out.println("This is weeee");
+		
+		int xc=0;
 	}
 
 }
